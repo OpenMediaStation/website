@@ -1,6 +1,8 @@
-+++
-title = 'Setup Authentik'
-+++
+---
+title: Setup Authentik
+weight: 3
+draft: true
+---
 
 ## Create application
 
