@@ -1,8 +1,9 @@
 +++
 title = 'Getting started'
+weight = 2
 +++
 
-> **WARNING:** The software is in a very early stage of development. Please use it only for testing and not production.
+> **WARNING:** The software is in a early stage of development. Please use it with care.
 
 ## Server installation
 

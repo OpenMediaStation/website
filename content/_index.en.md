@@ -34,11 +34,11 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Mobile and Desktop clients"
-    subtitle="Fully featured mobile clients for Android, IOS, Linux and Windows."
+    subtitle="Fully featured mobile clients for Android, IOS, Linux, Windows."
   >}}
   {{< hextra/feature-card
     title="TV clients"
-    subtitle="Clients for AndroidTV, Linux Kiosk mode and more to come!"
+    subtitle="Clients for AndroidTV, FireTV, Linux Kiosk mode and more to come!"
   >}}
   {{< hextra/feature-card
     title="Easy deployment with Docker"
