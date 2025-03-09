@@ -28,4 +28,10 @@ TMDB_KEY=aaaaaaaaaaaaaaaaaaaaaaa
 
 ## Get the clients
 
-You can obtain the client from the artifacts of the latest [release](https://github.com/OpenMediaStation/OpenMediaStation.FE.MovieTV/releases).
+### Movie & TV
+
+You can obtain the client from the artifacts of the latest [release](https://github.com/OpenMediaStation/OpenMediaStation.FE.MovieTV/releases) or from one of the stores listed below.
+
+- [Apple AppStore](https://testflight.apple.com/join/DmCy5QfP)
+- [Amazon Tablet and Fire TV](https://www.amazon.com/Open-Media-Station-Shows-TV/dp/B0DY468FCZ)
+- [Microsoft Store](https://apps.microsoft.com/detail/9nrfn2m3695g?hl=en-us&gl=US)
